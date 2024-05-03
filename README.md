@@ -21,6 +21,8 @@ ChatGPT 3.5
     https://openai.com/policies/terms-of-use
 
 ## Acknowledgements
+John Brooks- Full Stack Developer I
+    My brother in law tried helping me figure out why this application was not functioning properly.  He was able to help me catch a few minor errors I had made and I appreciate him for being my second set of eyes while we looked over my code.
 
 ## License
 MIT
