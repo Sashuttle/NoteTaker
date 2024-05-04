@@ -1,6 +1,6 @@
 //Note: Importing existing note data from JSON file, utility function for note management, and creating new express router
 const { notes } = require("../../db/db.json");
-const {verifyNote, createNote } = require("../../public/assets/js/notes.js");
+const {verifyNote, createNote } = require("../../lib/notes.js");
 const router = require("express").Router();
 
 //Note:GET route to fetch all the notes
